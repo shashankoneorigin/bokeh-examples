@@ -1,0 +1,13 @@
+    .heading {
+        text-align: center;
+    }
+    
+    #submit_button {
+        width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    #ex1Slider .slider-selection {
+        background: #BABABA;
+    }
